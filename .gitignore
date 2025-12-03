@@ -1,0 +1,5 @@
+
+/sibad/.next/
+/sibad/node_modules/
+/sibad/.env.local
+.env.local
